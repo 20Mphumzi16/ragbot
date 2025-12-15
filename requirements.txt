@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+langchain-chroma
+pandas
+fastapi
+uvicorn[standard]
+pydantic
